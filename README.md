@@ -4,7 +4,7 @@
   <a href="https://github.com/weavefox">
     <img height="42" src="https://mdn.alipayobjects.com/huamei_4qpv3u/afts/img/W-AUSZMp21IAAAAAAAAAAAAAeocTAQFr/fmt.avif">
   </a>
-  <p align="center">🦊 「你的创意，值得让全世界看到」Weave creativity with AI, and let AI serve humanity.</p>
+  <p align="center">🦊「你的创意，值得让全世界看到」Weave creativity with AI, and let AI serve humanity.</p>
   <p align="center"></p>
 </p>
 
