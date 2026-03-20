@@ -1,4 +1,4 @@
-<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/weavefox/weavefox/blob/main/profile/README.zh-CN.md)
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/weavefox/weavefox/blob/main/profile/README_EN.md)
 
 <p align="center">
   <a href="https://github.com/weavefox">
@@ -13,8 +13,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/weavefox/weavefox.svg)](https://github.com/weavefox/weavefox/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/weavefox/weavefox.svg)](https://github.com/weavefox/weavefox/issues)
-
-[English](./README_EN.md) | 简体中文
 
 </div>
 
