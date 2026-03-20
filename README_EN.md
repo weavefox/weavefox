@@ -2,9 +2,7 @@
 
 <div align="center">
 
-**A Beautiful and Elegant Product**
-
-**一个简洁、优雅且功能强大的产品**
+**Your Creativity Deserves to Be Seen by the World**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/weavefox/weavefox.svg)](https://github.com/weavefox/weavefox/stargazers)
@@ -13,10 +11,6 @@
 English | [简体中文](./README.md)
 
 </div>
-
-## ✨ Introduction
-
-WeaveFox is a beautiful, elegant, and powerful product dedicated to providing users with the best experience.
 
 ## 📸 Gallery
 
@@ -73,27 +67,6 @@ WeaveFox is a beautiful, elegant, and powerful product dedicated to providing us
     </td>
   </tr>
 </table>
-
-## 🚀 Features
-
-- 🎨 **Beautiful Design** - Carefully crafted user interface
-- ⚡ **High Performance** - Optimized performance
-- 🔧 **Easy to Use** - Simple and intuitive operation
-- 📦 **Lightweight** - Small size, fast loading
-- 🌍 **Cross-platform** - Supports multiple platforms and environments
-- 🔒 **Safe and Reliable** - Focus on security and stability
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💖 Acknowledgments
-
-Thanks to all the developers who contributed to this project!
 
 ---
 
