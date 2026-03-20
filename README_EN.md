@@ -71,5 +71,5 @@ English | [简体中文](./README.md)
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/hustcc">hustcc</a>
+  Made with ❤️ by <a href="https://weavefox.cn">WeaveFox</a>
 </div>
