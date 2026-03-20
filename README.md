@@ -1,8 +1,14 @@
-# 🦊 WeaveFox
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/weavefox/weavefox/blob/main/profile/README.zh-CN.md)
+
+<p align="center">
+  <a href="https://github.com/weavefox">
+    <img height="42" src="https://mdn.alipayobjects.com/huamei_4qpv3u/afts/img/W-AUSZMp21IAAAAAAAAAAAAAeocTAQFr/fmt.avif">
+  </a>
+  <p align="center">🦊 「你的创意，值得让全世界看到」Weave creativity with AI, and let AI serve humanity.</p>
+  <p align="center"></p>
+</p>
 
 <div align="center">
-
-**你的创意，值得让全世界看到**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/weavefox/weavefox.svg)](https://github.com/weavefox/weavefox/stargazers)
