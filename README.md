@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**你的 创意，值得让全世界看到**
+**你的创意，值得让全世界看到**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/weavefox/weavefox.svg)](https://github.com/weavefox/weavefox/stargazers)
